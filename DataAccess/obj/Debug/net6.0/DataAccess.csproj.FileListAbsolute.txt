@@ -1,0 +1,28 @@
+D:\GITHUB\OUT_WS_SEMILLA_OS\WebService\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\GITHUB\OUT_WS_SEMILLA_OS\WebService\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+D:\GITHUB\OUT_WS_SEMILLA_OS\WebService\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\GITHUB\OUT_WS_SEMILLA_OS\WebService\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\GITHUB\OUT_WS_SEMILLA_OS\WebService\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\GITHUB\OUT_WS_SEMILLA_OS\WebService\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\GITHUB\OUT_WS_SEMILLA_OS\WebService\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\GITHUB\OUT_WS_SEMILLA_OS\WebService\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\GITHUB\OUT_WS_SEMILLA_OS\WebService\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\GITHUB\OUT_WS_SEMILLA_OS\WebService\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\GITHUB\OUT_WS_SEMILLA_OS\WebService\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\GITHUB\OUT_WS_SEMILLA_OS\WebService\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\GITHUB\OUT_WS_SEMILLA_OS\WebService\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+D:\GITHUB\OUT_WS_SEMILLA_OS\WebService\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\ANDRES M ESCOBAR\Desktop\TestFinanzauto\WebService\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\ANDRES M ESCOBAR\Desktop\TestFinanzauto\WebService\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\ANDRES M ESCOBAR\Desktop\TestFinanzauto\WebService\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\ANDRES M ESCOBAR\Desktop\TestFinanzauto\WebService\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\ANDRES M ESCOBAR\Desktop\TestFinanzauto\WebService\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\ANDRES M ESCOBAR\Desktop\TestFinanzauto\WebService\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANDRES M ESCOBAR\Desktop\TestFinanzauto\WebService\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\ANDRES M ESCOBAR\Desktop\TestFinanzauto\WebService\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\ANDRES M ESCOBAR\Desktop\TestFinanzauto\WebService\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ANDRES M ESCOBAR\Desktop\TestFinanzauto\WebService\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\ANDRES M ESCOBAR\Desktop\TestFinanzauto\WebService\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\ANDRES M ESCOBAR\Desktop\TestFinanzauto\WebService\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\ANDRES M ESCOBAR\Desktop\TestFinanzauto\WebService\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\ANDRES M ESCOBAR\Desktop\TestFinanzauto\WebService\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll

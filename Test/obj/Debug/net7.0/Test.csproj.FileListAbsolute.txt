@@ -1,0 +1,6 @@
+D:\GITHUB\OUT_WS_SEMILLA_OS\WebService\Test\bin\Debug\net7.0\CoverletSourceRootsMapping
+D:\GITHUB\OUT_WS_SEMILLA_OS\WebService\Test\obj\Debug\net7.0\Test.csproj.AssemblyReference.cache
+D:\GITHUB\OUT_WS_SEMILLA_OS\WebService\Test\obj\Debug\net7.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\GITHUB\OUT_WS_SEMILLA_OS\WebService\Test\obj\Debug\net7.0\Test.AssemblyInfoInputs.cache
+D:\GITHUB\OUT_WS_SEMILLA_OS\WebService\Test\obj\Debug\net7.0\Test.AssemblyInfo.cs
+D:\GITHUB\OUT_WS_SEMILLA_OS\WebService\Test\obj\Debug\net7.0\Test.csproj.CoreCompileInputs.cache

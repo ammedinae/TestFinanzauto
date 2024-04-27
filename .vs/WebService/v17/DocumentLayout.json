@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ANDRES M ESCOBAR\\Desktop\\TestFinanzauto\\WebService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{366BF718-3F93-4189-8E0F-79C8B506FE8B}|WebService\\WebService.csproj|c:\\users\\andres m escobar\\desktop\\testfinanzauto\\webservice\\webservice\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{366BF718-3F93-4189-8E0F-79C8B506FE8B}|WebService\\WebService.csproj|solutionrelative:webservice\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D1BD5C-0213-4BFB-8D8E-E60209790E1E}|DTO\\DTO.csproj|c:\\users\\andres m escobar\\desktop\\testfinanzauto\\webservice\\dto\\request\\studentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D1BD5C-0213-4BFB-8D8E-E60209790E1E}|DTO\\DTO.csproj|solutionrelative:dto\\request\\studentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366BF718-3F93-4189-8E0F-79C8B506FE8B}|WebService\\WebService.csproj|c:\\users\\andres m escobar\\desktop\\testfinanzauto\\webservice\\webservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{366BF718-3F93-4189-8E0F-79C8B506FE8B}|WebService\\WebService.csproj|solutionrelative:webservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366BF718-3F93-4189-8E0F-79C8B506FE8B}|WebService\\WebService.csproj|c:\\users\\andres m escobar\\desktop\\testfinanzauto\\webservice\\webservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{366BF718-3F93-4189-8E0F-79C8B506FE8B}|WebService\\WebService.csproj|solutionrelative:webservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDED6958-6C12-4EC7-908C-CA5EB9AEB525}|Business\\Business.csproj|c:\\users\\andres m escobar\\desktop\\testfinanzauto\\webservice\\business\\bll\\studentbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDED6958-6C12-4EC7-908C-CA5EB9AEB525}|Business\\Business.csproj|solutionrelative:business\\bll\\studentbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ANDRES M ESCOBAR\\Desktop\\TestFinanzauto\\WebService\\DTO\\Request\\StudentRequest.cs",
+              "RelativeDocumentMoniker": "DTO\\Request\\StudentRequest.cs",
+              "ToolTip": "C:\\Users\\ANDRES M ESCOBAR\\Desktop\\TestFinanzauto\\WebService\\DTO\\Request\\StudentRequest.cs",
+              "RelativeToolTip": "DTO\\Request\\StudentRequest.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAuwBoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T23:00:34.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ANDRES M ESCOBAR\\Desktop\\TestFinanzauto\\WebService\\WebService\\Program.cs",
+              "RelativeDocumentMoniker": "WebService\\Program.cs",
+              "ToolTip": "C:\\Users\\ANDRES M ESCOBAR\\Desktop\\TestFinanzauto\\WebService\\WebService\\Program.cs",
+              "RelativeToolTip": "WebService\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T22:37:24.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentBLL.cs",
+              "DocumentMoniker": "C:\\Users\\ANDRES M ESCOBAR\\Desktop\\TestFinanzauto\\WebService\\Business\\BLL\\StudentBLL.cs",
+              "RelativeDocumentMoniker": "Business\\BLL\\StudentBLL.cs",
+              "ToolTip": "C:\\Users\\ANDRES M ESCOBAR\\Desktop\\TestFinanzauto\\WebService\\Business\\BLL\\StudentBLL.cs",
+              "RelativeToolTip": "Business\\BLL\\StudentBLL.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAAAJMAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T22:32:37.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\ANDRES M ESCOBAR\\Desktop\\TestFinanzauto\\WebService\\WebService\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "WebService\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\ANDRES M ESCOBAR\\Desktop\\TestFinanzauto\\WebService\\WebService\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "WebService\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T22:32:37.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ANDRES M ESCOBAR\\Desktop\\TestFinanzauto\\WebService\\WebService\\appsettings.json",
+              "RelativeDocumentMoniker": "WebService\\appsettings.json",
+              "ToolTip": "C:\\Users\\ANDRES M ESCOBAR\\Desktop\\TestFinanzauto\\WebService\\WebService\\appsettings.json",
+              "RelativeToolTip": "WebService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-27T22:31:22.873Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

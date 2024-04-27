@@ -1,0 +1,82 @@
+[
+  {
+    "ContainingType": "WebService.Controllers.Login.LoginController",
+    "Method": "Login",
+    "RelativePath": "api/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginRequest",
+        "Type": "DTO.Request.Login.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebService.Controllers.StudentsController",
+    "Method": "Delete",
+    "RelativePath": "api/Students/DeleteStudent",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "document",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebService.Controllers.StudentsController",
+    "Method": "Get",
+    "RelativePath": "api/Students/GetStudent",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "document",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebService.Controllers.StudentsController",
+    "Method": "Insert",
+    "RelativePath": "api/Students/InsertStudent",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "studentRequest",
+        "Type": "DTO.Request.StudentRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebService.Controllers.StudentsController",
+    "Method": "Modify",
+    "RelativePath": "api/Students/ModifyStudent",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "studentResponse",
+        "Type": "DTO.Response.StudentResponse",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,24 @@
+D:\GITHUB\OUT_WS_SEMILLA_OS\WebService\Common\bin\Debug\net6.0\Common.deps.json
+D:\GITHUB\OUT_WS_SEMILLA_OS\WebService\Common\bin\Debug\net6.0\Common.dll
+D:\GITHUB\OUT_WS_SEMILLA_OS\WebService\Common\bin\Debug\net6.0\Common.pdb
+D:\GITHUB\OUT_WS_SEMILLA_OS\WebService\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+D:\GITHUB\OUT_WS_SEMILLA_OS\WebService\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\GITHUB\OUT_WS_SEMILLA_OS\WebService\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+D:\GITHUB\OUT_WS_SEMILLA_OS\WebService\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+D:\GITHUB\OUT_WS_SEMILLA_OS\WebService\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+D:\GITHUB\OUT_WS_SEMILLA_OS\WebService\Common\obj\Debug\net6.0\Common.dll
+D:\GITHUB\OUT_WS_SEMILLA_OS\WebService\Common\obj\Debug\net6.0\refint\Common.dll
+D:\GITHUB\OUT_WS_SEMILLA_OS\WebService\Common\obj\Debug\net6.0\Common.pdb
+D:\GITHUB\OUT_WS_SEMILLA_OS\WebService\Common\obj\Debug\net6.0\ref\Common.dll
+C:\Users\ANDRES M ESCOBAR\Desktop\TestFinanzauto\WebService\Common\bin\Debug\net6.0\Common.deps.json
+C:\Users\ANDRES M ESCOBAR\Desktop\TestFinanzauto\WebService\Common\bin\Debug\net6.0\Common.dll
+C:\Users\ANDRES M ESCOBAR\Desktop\TestFinanzauto\WebService\Common\bin\Debug\net6.0\Common.pdb
+C:\Users\ANDRES M ESCOBAR\Desktop\TestFinanzauto\WebService\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+C:\Users\ANDRES M ESCOBAR\Desktop\TestFinanzauto\WebService\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANDRES M ESCOBAR\Desktop\TestFinanzauto\WebService\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+C:\Users\ANDRES M ESCOBAR\Desktop\TestFinanzauto\WebService\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+C:\Users\ANDRES M ESCOBAR\Desktop\TestFinanzauto\WebService\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\ANDRES M ESCOBAR\Desktop\TestFinanzauto\WebService\Common\obj\Debug\net6.0\Common.dll
+C:\Users\ANDRES M ESCOBAR\Desktop\TestFinanzauto\WebService\Common\obj\Debug\net6.0\refint\Common.dll
+C:\Users\ANDRES M ESCOBAR\Desktop\TestFinanzauto\WebService\Common\obj\Debug\net6.0\Common.pdb
+C:\Users\ANDRES M ESCOBAR\Desktop\TestFinanzauto\WebService\Common\obj\Debug\net6.0\ref\Common.dll
